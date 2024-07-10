@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jiaying (Lizzy) Liu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  name             : "Jiaying (Lizzy) Liu"
-  pronouns         : # example: "she/her"  
+  name             : #"Jiaying (Lizzy) Liu"
+  pronouns         :  "she/her"  
   bio              : "Ph.D. candidate"
   location         : "Austin"
   employer         : "University of Texas at Austin"
@@ -37,7 +37,7 @@ author:
   #orcid            : "http://orcid.org/yourorcidurl"
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
