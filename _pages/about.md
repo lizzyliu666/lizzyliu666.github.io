@@ -18,17 +18,11 @@ Human-Centered AI, Health Communication, Computational Social Science, AI for De
 
 
 **Updates**
-
-
-    08/25: Attend the Summer Institute in Computational Social Science (SICSS) at Stanford University during Aug 4- 15! 
-
-    07/25: Attend the Oxford Internet Institute–UC Berkeley School of Information Doctoral Program with a full scholarship ($2500) by the Berkeley Center for New Media
-
-    06/25: Full paper accepted by ASIS&T 2025! "Video‑Mediated Emotion Disclosure: A Study of Mental Health Vlogging by People with Schizophrenia on YouTube"
-
-    06/25: Attend the Consortium for the Science of Sociotechnical Systems (CSST) at Syracuse from May 28- June 1!
-
-    06/25: Full paper accepted by CSCW25 "From Regulation to Support: Centering Humans in Technology-Mediated Emotion Intervention in Care Contexts" [preprint]
+08/25: Attend the Summer Institute in Computational Social Science (SICSS) at Stanford University during Aug 4- 15! 
+07/25: Attend the Oxford Internet Institute–UC Berkeley School of Information Doctoral Program with a full scholarship ($2500) by the Berkeley Center for New Media
+06/25: Full paper accepted by ASIS&T 2025! "Video‑Mediated Emotion Disclosure: A Study of Mental Health Vlogging by People with Schizophrenia on YouTube"
+06/25: Attend the Consortium for the Science of Sociotechnical Systems (CSST) at Syracuse from May 28- June 1!
+06/25: Full paper accepted by CSCW25 "From Regulation to Support: Centering Humans in Technology-Mediated Emotion Intervention in Care Contexts" [preprint]
 
     05/25: Our workshop was accepted by CSCW 25. Stay tuned for "Design as Hope: Reframing Complex Societal Challenges Through Collaborative Reflection"
 
