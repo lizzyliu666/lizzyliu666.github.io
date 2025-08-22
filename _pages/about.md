@@ -13,41 +13,20 @@ Drawing on theories from science and technology studies, psychology, and media s
 
 My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). My work has been recognized with four research awards, including two Best Paper Awards from ASIS&T SIG Health and SIG USE, as well as two Honorable Mention Awards from IEEE ICHI and iConference. My dissertation work was supported by prestigious fellowships and scholarships from the UT Austin Graduate School and the Berkeley Center for New Media.
 
-**Research Areas**
+**Research Areas:**
 Human-Centered AI, Health Communication, Computational Social Science, AI for Development, Mental Wellbeing, Participatory Design, Video-based Social Media, AI-Assisted Video Analysis
 
+**Recent Updates** 
 
-**Updates**
-08/25: Attend the Summer Institute in Computational Social Science (SICSS) at Stanford University during Aug 4- 15! 
-07/25: Attend the Oxford Internet Institute–UC Berkeley School of Information Doctoral Program with a full scholarship ($2500) by the Berkeley Center for New Media
-06/25: Full paper accepted by ASIS&T 2025! "Video‑Mediated Emotion Disclosure: A Study of Mental Health Vlogging by People with Schizophrenia on YouTube"
-06/25: Attend the Consortium for the Science of Sociotechnical Systems (CSST) at Syracuse from May 28- June 1!
-06/25: Full paper accepted by CSCW25 "From Regulation to Support: Centering Humans in Technology-Mediated Emotion Intervention in Care Contexts" [preprint]
-
-    05/25: Our workshop was accepted by CSCW 25. Stay tuned for "Design as Hope: Reframing Complex Societal Challenges Through Collaborative Reflection"
-
-    02/25: CHI25 LBW Accepted. We experimented with LLMs' visual concept understanding with social media videos on depression.
-
-    02/25: New CSCW 25 Preprint: "When I lost it, they dragged me out": How Sociotechnical Ecosystem of Resources Empower Marginalized Young Adults' Mental Health Care-Seeking.
-
-    10/24: Honored to receive two Best Paper Awards from ASIS&T SIG-USE and SIG-HLTH on our paper about Young Adults' Mental Health Help-Seeking Journey [Preprint]
-
-    09/24: Started to work with Prof. Desmond Ong & Prof. Jessy Li on projects around "Embed Contextualized Empathy in LLM‑Powered Chatbots"!
-
-    07/24: CSCW 24 Poster "Using Large Language Models to Assist Video Content Analysis: An Exploratory Study of Short Videos on Depression" is on arXiv!
-
-    07/24: Honored to get two Student Travel Grants by ASIST SIG IEP and Midwest Chapter!
-
-    06/24: Happy to serve as the Associated Chair for CSCW 24 Poster Track
-
-    o6/24: Win the Best PhD Project Honorable Mention at ICHI24!
-
-    02/24: I am thrilled to receive the University Continuing Fellowship from UT Austin. The fellowship supports ONE student from each department. A real honor!
-
-    02/24: Happy to serve as the Associated Chair for IEEE ICHI 24 Paper in the human factors track!
-
-    02/24: One paper to HRI 24 was accepted!
-
-    01/24: One CSCW 24 paper got accepted! This is my first project in my doctoral program, lasting almost three years.
+- 🏫 **Attend the Summer Institute in Computational Social Science (SICSS)** — Stanford University, Aug 4–15, 2025
+- 🎓 **Attend Oxford Internet Institute–UC Berkeley Doctoral Program** — Full scholarship ($2500), Jul 25, 2025
+- 📄 **Full paper accepted by ASIS&T 2025** — "Video‑Mediated Emotion Disclosure: A Study of Mental Health Vlogging by People with Schizophrenia on YouTube", Jun 25, 2025
+- 🛠️ **Attend the Consortium for the Science of Sociotechnical Systems (CSST)** — Syracuse University, May 28–Jun 1, 2025
+- 📄 **Full paper accepted by CSCW25** — "From Regulation to Support: Centering Humans in Technology-Mediated Emotion Intervention in Care Contexts", Jun 25, 2025
+- 🖌️ **Workshop accepted by CSCW 25** — "Design as Hope: Reframing Complex Societal Challenges Through Collaborative Reflection", May 25, 2025
+- 🤖 **CHI25 LBW Accepted** — Experimented with LLMs' visual concept understanding with social media videos on depression, Feb 25, 2025
+- 📄 **New CSCW 25 Preprint** — "When I lost it, they dragged me out": How Sociotechnical Ecosystem of Resources Empower Marginalized Young Adults' Mental Health Care-Seeking, Feb 25, 2025
+- 🏆 **Best Paper Awards from ASIS&T SIG-USE & SIG-HLTH** — Young Adults' Mental Health Help-Seeking Journey, Oct 24, 2024
+- 🖌️ **CSCW 24 Poster** — "Using Large Language Models to Assist Video Content Analysis: An Exploratory Study of Short Videos on Depression", Jul 24, 2024 (on arXiv)
 
 
