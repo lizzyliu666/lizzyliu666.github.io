@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jiaying \"Lizzy\" Liu"
 title_separator          : "-"
 name                     : "Jiaying \"Lizzy\" Liu"
-description              : &description "Ph.D. candidate1"
+description              : &description "Ph.D. candidate"
 url                      : "https://lizzyliu666.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lizzyliu666.github.io/"
@@ -38,7 +38,7 @@ author:
   #orcid            : "http://orcid.org/yourorcidurl"
 
   # Social media
-  bluesky          : #"lizzyjiayingliu@bsky.social" # Replace this with you Bluesky username
+  bluesky          : "lizzyjiayingliu@bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -47,7 +47,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Jiaying "Lizzy" Liu
+  linkedin         : Jiaying "Lizzy" Liu
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
