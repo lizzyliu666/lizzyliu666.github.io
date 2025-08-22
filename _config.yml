@@ -38,7 +38,7 @@ author:
   #orcid            : "http://orcid.org/yourorcidurl"
 
   # Social media
-  bluesky          : "lizzyjiayingliu@bsky.social" # Replace this with you Bluesky username
+  bluesky          : "lizzyjiayingliu.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -47,7 +47,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Jiaying "Lizzy" Liu
+  linkedin         : jiaying-”lizzy”-liu-a2b037250/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
