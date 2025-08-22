@@ -74,6 +74,52 @@ author_profile: true
 - **[C.03]** 🏅 **Jiaying Liu**, Yan Zhang.  
   *Exploring Young Adults' Mental Health Help-Seeking Journey*.  
   *ASIS&T 2024*. [PDF](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.1060)  
-  <sub>Best Paper Award (SIG USE & HLTH)</sub>  
+  <sub>Best Paper Award (SIG USE & HLTH)</sub>
+
+- **[C.02]** Jiayi Liu, Chen Liu, Yuxi Lv, Baoxin Li.  
+  *"Ad blindness”? Not for all searchers! Investigation of “Not Ad blind” Searchers’ Perception and Interactions towards Search Engine Ads in health-related tasks*.  
+  *ASIS&T Asia-Pacific 2023, Beijing, China*.  
+
+- **[C.01]** Jiayi Liu, Yan Zhang, Yong Ju Kim.  
+  *Consumer Health Information Quality, Credibility, and Trust: An Analysis of Definitions, Measures, and Conceptual Dimensions*.  
+  *CHIIR 2023, Austin, TX, USA*. [PDF](https://doi.org/10.1145/3576840.3578331)  
+
+- **[DC.09]** Jiayi Liu.  
+  *Designing Identity-Affirming Generative AI for Visual Emotional Expression: Empowering Marginalized Young Adults*.  
+  *CSCW Doctoral Consortium 2025*.  
+
+- **[W.08]** Jisu Kim, Jiayi Liu, Catherine Pyle, Satyavolu Somanath, Liana Popowski, Haoren Shen, Casey Fiesler, Gillian Hayes, Alexis Hiniker, Wendy Ju, Florian Muller, Ahmed Al Arif, Yash Kotturi.  
+  *Design for Hope: Cultivating Deliberate Hope in the Face of Complex Societal Challenges*.  
+  *CSCW Workshop 2025*. [PDF](https://arxiv.org/pdf/2503.07586)  
+- **[P.07]** Zihan Gao, **Jiaying "Lizzy" Liu**, Yifei Xu, Jacob Thebault-Spieker.  
+  *From Clips to Communities: Fusing Social Video into Knowledge Graphs for Localness-Aware LLMs*.  
+  *CSCW Companion 2025*.  
+
+- **[P.06]** Shuer Zhuo†, **Jiaying "Lizzy" Liu**.  
+  *Digital Boundaries of Time: Exploring How Calendar App Designs Mediate Time Perceptions and Boundary Management*.  
+  *CSCW Companion 2025*.  
+
+- **[P.05]** **Jiaying "Lizzy" Liu***, Yiheng Su*†, Praneel Seth†.  
+  *Can Large Language Models Grasp Concepts in Visual Content? A Case Study on YouTube Shorts about Depression*.  
+  *CHI EA 2025, Yokohama, Japan*. [PDF](http://arxiv.org/abs/2503.05109)  
+  <sub>*Equal contribution</sub>  
+
+- **[P.04]** **Jiaying "Lizzy" Liu***, Yunlong Wang*, Yao Lyu, Yiheng Su†, Shuo Niu, Xuhai "Orson" Xu, Yan Zhang.  
+  *Harnessing LLMs for Automated Video Content Analysis: An Exploratory Workflow of Short Videos on Depression*.  
+  *CSCW Companion 2024, San Jose, Costa Rica*. [PDF](https://arxiv.org/abs/2406.19528)  
+
+- **[P.03]** 🏅 **Jiaying Liu**, Shijie Song, Yan Zhang.  
+  *Implications of a Real-Time Assistive Tool for Online Health Information Credibility Evaluation*.  
+  *IEEE ICHI 2024 Doctoral Consortium, Orlando, FL, USA*.  
+  <sub>Best PhD Project Honorable</sub>  
+
+- **[P.02]** Katie Trainum, **Jiaying Liu**, Elliott Hauser, Bo Xie.  
+  *Nursing Staff’s Attitudes, Needs, and Preferences for Care Robots in Assisted Living Facilities: A Systematic Literature Review*.  
+  *HRI Companion 2024, Boulder, CO, USA*. [PDF](https://doi.org/10.1145/3610978.3640690)  
+
+- **[P.01]** 🏅 **Jiaying Liu**, Shijie Song, Yan Zhang.  
+  *Linguistic Features and Consumer Credibility Judgment of Online Health Information*.  
+  *iConference 2021*.  
+  <sub>Best Poster Honorable Mention</sub>  
 
 
