@@ -12,7 +12,7 @@ title                    : "Jiaying "Lizzy" Liu"
 title_separator          : "-"
 name                     : &name "Jiaying "Lizzy" Liu"
 description              : &description "Ph.D. candidate"
-URL                      : "https://lizzyliu666.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://lizzyliu666.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lizzyliu666.github.io/"
 
@@ -22,8 +22,7 @@ repository               : "lizzyliu666.github.io/"
 author:
   # Biographic information
   avatar           : "/images/profile2.png"
-"
-  name             : #"Jiaying "Lizzy" Liu"
+  name: 'Jiaying "Lizzy" Liu'
   pronouns         :  "she/her"  
   bio              : "Ph.D. candidate"
   location         : "Austin"
