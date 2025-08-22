@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jiaying "Lizzy" Liu"
 title_separator          : "-"
-name                     : &name "Jiaying "Lizzy" Liu"
+name: "Jiaying \"Lizzy\" Liu"
 description              : &description "Ph.D. candidate"
 url                      : "https://lizzyliu666.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
