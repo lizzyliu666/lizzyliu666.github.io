@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiaying (Lizzy) Liu"
+title                    : "Jiaying "Lizzy" Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jiaying "Lizzy" Liu"
+description              : &description "Ph.D. candidate"
+url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,8 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
-  name             : #"Jiaying (Lizzy) Liu"
+  avatar           : "/images/profile2.png"
+"
+  name             : #"Jiaying "Lizzy" Liu"
   pronouns         :  "she/her"  
   bio              : "Ph.D. candidate"
   location         : "Austin"
@@ -37,7 +38,7 @@ author:
   #orcid            : "http://orcid.org/yourorcidurl"
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"lizzyjiayingliu@bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -46,7 +47,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # Jiaying "Lizzy" Liu
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
