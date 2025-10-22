@@ -9,20 +9,25 @@ redirect_from:
 
 I am a Ph.D candidate at the **School of Information at the University of Texas at Austin**, advised by Dr. Yan Zhang. I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
 
-<table style="border:none; width:100%;">
-<tr>
-<td style="width:65%; vertical-align:top; border:none;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="65%">
 
-My work is motivated by the pursuit of **_social justice_** and **_human flourishing_**. My research contributes to **human-centered AI** and **social computing**, with a focus on equitable health communication and mental well-being for vulnerable communities. I employ **computational**, **qualitative**, and **co-design** methodologies to understand real-life health behavior changes and to design **responsible AI systems** that strengthen meaningful human connections.
+In pursuit of **_human flourishing_**, my goal is to build **human-centered AI** that enables _authentic emotional support_ and strengthens _human connections_, **augmenting—rather than substituting—human relationships**.  
+I study how care-seeking unfolds across digital media and everyday life, with particular attention to **disparities and risks** affecting vulnerable populations.  
+Centering their lived experiences, my work informs the design of **AI-enabled interventions** that are safe, inclusive, and accountable.  
+As an interdisciplinary researcher, I draw on **psychology**, **media studies**, and **science and technology studies**.
 
-</td>
-<td style="width:35%; text-align:center; border:none;">
+    </td>
+    <td valign="top" width="35%" align="center">
 
-<img src="images/venn-diagram.png" alt="Venn Diagram" width="90%">
 
-</td>
-</tr>
+<img src="images/agenda.png" alt="Venn Diagram" width="90%">
+
+    </td>
+  </tr>
 </table>
+
 
 - **Understanding online emotion disclosure** on multimodal platforms such as video-based social media, examining the creation [Liu, 2025], consumption [Liu, 2024], and disparities [Liu, 2025] of videos through mixed-method approaches [Liu, 2024; Liu, 2025].  
 - **Revealing real-world mental health behavior changes** among vulnerable populations, through in-depth interviews and a sociotechnical lens that surfaces lived experiences [Liu, 2025; Liu, 2024].  
