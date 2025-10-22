@@ -9,26 +9,25 @@ redirect_from:
 
 I am a Ph.D candidate at the **School of Information at the University of Texas at Austin**, advised by Dr. Yan Zhang. I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
 
-My work is motivated by the pursuit of **_social justice_** and **_human flourishing_**.  
-My research contributes to **human-centered AI** and **social computing**, with a focus on equitable health communication and mental well-being for vulnerable communities.  
-I employ **computational**, **qualitative**, and **co-design** methodologies to understand real-life health behavior changes and to design **responsible AI systems** that strengthen meaningful human connections. My previous work advances three main directions:
-
-<table>
+<table style="border:none; width:100%;">
 <tr>
-<td width="65%" style="vertical-align:top;">
+<td style="width:65%; vertical-align:top; border:none;">
+
+My work is motivated by the pursuit of **_social justice_** and **_human flourishing_**. My research contributes to **human-centered AI** and **social computing**, with a focus on equitable health communication and mental well-being for vulnerable communities. I employ **computational**, **qualitative**, and **co-design** methodologies to understand real-life health behavior changes and to design **responsible AI systems** that strengthen meaningful human connections.
+
+</td>
+<td style="width:35%; text-align:center; border:none;">
+
+<img src="images/venn-diagram.png" alt="Venn Diagram" width="90%">
+
+</td>
+</tr>
+</table>
 
 - **Understanding online emotion disclosure** on multimodal platforms such as video-based social media, examining the creation [Liu, 2025], consumption [Liu, 2024], and disparities [Liu, 2025] of videos through mixed-method approaches [Liu, 2024; Liu, 2025].  
 - **Revealing real-world mental health behavior changes** among vulnerable populations, through in-depth interviews and a sociotechnical lens that surfaces lived experiences [Liu, 2025; Liu, 2024].  
 - **Implementing human-centered AI for mental health and emotional support**, developing design guidelines for emotion AI systems that promote well-being [Liu, 2025] and strengthen peer support networks [Liu, 2025].
 
-</td>
-<td width="35%" align="center">
-
-<img src="images/agenda.png" alt="Venn Diagram" width="20%">
-
-</td>
-</tr>
-</table>
 
 My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500).
 
