@@ -21,7 +21,7 @@ repository               : "lizzyliu666.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "/images/profile2.png"
+  avatar: "/profile2.png"
 
   name: 'Jiaying "Lizzy" Liu'
   pronouns         :  "she/her"  
