@@ -11,19 +11,11 @@ I am a Ph.D candidate at the **School of Information at the University of Texas 
 
 <table style="border:none; border-collapse:collapse; width:100%;">
   <tr>
-    <td style="vertical-align:top; width:65%; border:none;">
-
-<p>In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>, <strong>augmenting—rather than substituting—human relationships</strong>.</p>
-
-<p>I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations.</p>
-
-<p>Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable.</p>
-
-<p>As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.</p>
-
+    <td style="vertical-align:top; width:80%; border:none;">
+<p>In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>, <strong>augmenting—rather than substituting—human relationships</strong>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.</p>
     </td>
-    <td style="vertical-align:top; width:35%; text-align:center; border:none;">
-      <img src="./images/vine.png" alt="Vine illustration" style="max-width:100%; height:auto;">
+    <td style="vertical-align:top; width:20%; text-align:center; border:none;">
+      <img src="./images/agenda.png" alt="Agenda" style="max-width:100%; height:auto;">
     </td>
   </tr>
 </table>
