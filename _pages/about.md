@@ -9,17 +9,17 @@ redirect_from:
 
 I am a Ph.D candidate at the **School of Information at the University of Texas at Austin**, advised by Dr. Yan Zhang. I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-<td valign="top" width="65%" style="border:none; font-size:inherit; line-height:1.5;">
+<div style="display:flex; align-items:flex-start; gap:20px;">
 
-<p>In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>, <strong>augmenting—rather than substituting—human relationships</strong>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.</p>
-</td>
-    <td valign="top" width="35%" align="center" style="border:none;">
-      <img src="./images/agenda.png" alt="Agenda" style="max-width:100%; height:auto;">
-    </td>
-  </tr>
-</table>
+  <div style="flex:65%;">
+In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>, <strong>augmenting—rather than substituting—human relationships</strong>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.
+  </div>
+
+  <div style="flex:35%; text-align:center;">
+    <img src="./images/agenda.png" alt="Agenda" style="max-width:100%; height:auto;">
+  </div>
+
+</div>
 
 - **Understanding online emotion disclosure** on multimodal platforms such as video-based social media, examining the creation [Liu, 2025], consumption [Liu, 2024], and disparities [Liu, 2025] of videos through mixed-method approaches [Liu, 2024; Liu, 2025].  
 - **Revealing real-world mental health behavior changes** among vulnerable populations, through in-depth interviews and a sociotechnical lens that surfaces lived experiences [Liu, 2025; Liu, 2024].  
