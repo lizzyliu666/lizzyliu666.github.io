@@ -11,11 +11,12 @@ I am a Ph.D candidate at the **School of Information at the University of Texas 
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td valign="top" width="65%" style="border:none;">
+<td valign="top" width="65%" style="border:none; font-size:inherit; line-height:1.5;">
+
 <p>In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>, <strong>augmenting—rather than substituting—human relationships</strong>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.</p>
-    </td>
+</td>
     <td valign="top" width="35%" align="center" style="border:none;">
-      <img src="./images/vine.png" alt="Vine illustration" style="max-width:100%; height:auto;">
+      <img src="./images/agenda.png" alt="Agenda" style="max-width:100%; height:auto;">
     </td>
   </tr>
 </table>
