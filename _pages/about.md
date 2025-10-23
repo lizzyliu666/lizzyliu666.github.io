@@ -21,17 +21,17 @@ In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <
 
 </div>
 
-- **Understanding online emotion disclosure** on multimodal platforms such as video-based social media, examining the creation [Liu, 2025], consumption [Liu, 2024], and disparities [Liu, 2025] of videos through mixed-method approaches [Liu, 2024; Liu, 2025].  
-- **Revealing real-world mental health behavior changes** among vulnerable populations, through in-depth interviews and a sociotechnical lens that surfaces lived experiences [Liu, 2025; Liu, 2024].  
-- **Implementing human-centered AI for mental health and emotional support**, developing design guidelines for emotion AI systems that promote well-being [Liu, 2025] and strengthen peer support networks [Liu, 2025].
+- **Understanding online emotion disclosure** on multimodal platforms such as video-based social media, examining the creation, consumption, and disparities of videos through mixed-method approaches.  
+- **Revealing real-world mental health behavior changes** among vulnerable populations, through in-depth interviews and a sociotechnical lens that surfaces lived experiences.  
+- **Implementing human-centered AI for mental health and emotional support**, developing design guidelines for emotion AI systems that promote well-being and strengthen peer support networks.
 
 
 My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500).
 
 
 **Recent Updates** 
-- 🖌️ **CSCW 2025** — attended the Doctoral Consortium, presented two papers, and met so many wonderful people! *(Nov 2025)*
-- 🤝 **Co-organized Workshop** — *“Design as Hope: Reframing Complex Societal Challenges Through Collaborative Reflection”* at CSCW 2025. *(Nov 2025)*
+- 🖌️ **CSCW 2025** — attended the Doctoral Consortium, presented two papers, and met so many wonderful people! Nov, 2025
+- 🤝 **Co-organized Workshop** — *“Design as Hope: Reframing Complex Societal Challenges Through Collaborative Reflection”* at CSCW 2025.  Nov, 2025
 - 🏫 **Attend the Summer Institute in Computational Social Science (SICSS)** — Stanford University, Aug 4–15, 2025
 - 🎓 **Attend Oxford Internet Institute–UC Berkeley Doctoral Program** — Full scholarship ($2500), Jul 25, 2025
 - 📄 **Full paper accepted by ASIS&T 2025** — "Video‑Mediated Emotion Disclosure: A Study of Mental Health Vlogging by People with Schizophrenia on YouTube", Jun 25, 2025
