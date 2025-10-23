@@ -73,6 +73,7 @@ author_profile: true
 **[C.02]** Jiaying Liu, Chang Liu, Yan Lv, Bingxuan Li. 2023. *"Ad blindness”? Not for all searchers! Investigation of “Not Ad blind” Searchers’ Perception and Interactions towards Search Engine Ads in Health-Related Tasks.* In *Annual Meeting of the Association for Information Science and Technology Asia Chapter (ASIS&T-AP' 23), Dec 23, 2023, Beijing, China.*  
 
 **[C.01]** Jiaying Liu, Yan Zhang, Yeolib Kim. 2023. *Consumer Health Information Quality, Credibility, and Trust: An Analysis of Definitions, Measures, and Conceptual Dimensions.* In *ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR’ 23), March 19–23, 2023, Austin, TX, USA.* ACM, 14 pages.  
+
 ---
 
 ### 🎤 Peer-reviewed Posters, Extended Abstracts, & Workshops
