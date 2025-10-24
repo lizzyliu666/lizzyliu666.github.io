@@ -9,13 +9,23 @@ redirect_from:
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <div style="flex:75%;">
-I am a Ph.D candidate at the **School of Information at the University of Texas at Austin**, advised by Dr. Yan Zhang. In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.
+I am a Ph.D candidate at the <em><strong>School of Information at the University of Texas at Austin</strong></em>, advised by Dr. Yan Zhang. In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.
   </div>
 
   <div style="flex:25%; text-align:center;">
     <img src="./images/agenda.png" alt="Agenda" style="max-width:100%; height:auto;">
   </div>
 
+</div>
+
+<div class="intro-container">
+  <div class="intro-text">
+    I am a Ph.D candidate at the <em><strong>School of Information at the University of Texas at Austin</strong></em>, advised by Dr. Yan Zhang. In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.
+  </div>
+
+  <div class="intro-image">
+    <img src="./images/agenda.png" alt="Agenda">
+  </div>
 </div>
 
 - **Understanding online emotion disclosure** on multimodal platforms such as video-based social media, examining the creation, consumption, and disparities of videos through mixed-method approaches.  
