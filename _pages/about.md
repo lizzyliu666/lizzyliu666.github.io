@@ -28,6 +28,8 @@ In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <
 
 My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500).
 
+### 🟦 **Currently on the academic job market for postdoctoral and tenure-track faculty positions.**
+
 
 **Recent Updates** 
 - 🖌️ **CSCW 2025** — attended the Doctoral Consortium, presented two papers, and met so many wonderful people! Nov, 2025
