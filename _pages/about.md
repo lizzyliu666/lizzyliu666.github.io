@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="max-width:1100px; margin: 0 auto;">
 
 I am a Ph.D candidate at the **School of Information at the University of Texas at Austin**, advised by Dr. Yan Zhang. I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
 
@@ -53,4 +54,4 @@ My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), i
 - 🏆 **Best Paper Awards from ASIS&T SIG-USE & SIG-HLTH** — Young Adults' Mental Health Help-Seeking Journey, Oct 24, 2024
 - 🖌️ **CSCW 24 Poster** — "Using Large Language Models to Assist Video Content Analysis: An Exploratory Study of Short Videos on Depression", Jul 24, 2024 (on arXiv)
 
-
+</div>
