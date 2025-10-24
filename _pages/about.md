@@ -18,16 +18,6 @@ I am a Ph.D candidate at the <em><strong>School of Information at the University
 
 </div>
 
-<div class="intro-container">
-  <div class="intro-text">
-    I am a Ph.D candidate at the <em><strong>School of Information at the University of Texas at Austin</strong></em>, advised by Dr. Yan Zhang. In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.
-  </div>
-
-  <div class="intro-image">
-    <img src="./images/agenda.png" alt="Agenda">
-  </div>
-</div>
-
 - **Understanding online emotion disclosure** on multimodal platforms such as video-based social media, examining the creation, consumption, and disparities of videos through mixed-method approaches.  
 - **Revealing real-world mental health behavior changes** among vulnerable populations, through in-depth interviews and a sociotechnical lens that surfaces lived experiences.  
 - **Implementing human-centered AI for mental health and emotional support**, developing design guidelines for emotion AI systems that promote well-being and strengthen peer support networks.
