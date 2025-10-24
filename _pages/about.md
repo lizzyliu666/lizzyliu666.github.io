@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 <style>
-body {
-  max-width: 1100px;
-  margin: 0 auto;
+body, .markdown-body {
+  max-width: none !important;
+  width: 100% !important;
+  margin: 0 !important;
   padding: 20px;
   line-height: 1.6;
 }
 </style>
+
 
 I am a Ph.D candidate at the **School of Information at the University of Texas at Austin**, advised by Dr. Yan Zhang. I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
 
