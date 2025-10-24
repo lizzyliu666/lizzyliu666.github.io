@@ -6,23 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-body, .markdown-body {
-  max-width: none !important;
-  width: 100% !important;
-  margin: 0 !important;
-  padding: 20px;
-  line-height: 1.6;
-}
-</style>
-
-
-I am a Ph.D candidate at the **School of Information at the University of Texas at Austin**, advised by Dr. Yan Zhang. I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
-
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <div style="flex:75%;">
-In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.
+I am a Ph.D candidate at the **School of Information at the University of Texas at Austin**, advised by Dr. Yan Zhang. In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. Centering their lived experiences, my work informs the design of <strong>AI-enabled interventions</strong> that are safe, inclusive, and accountable. As an interdisciplinary researcher, I draw on <strong>psychology</strong>, <strong>media studies</strong>, and <strong>science and technology studies</strong>.
   </div>
 
   <div style="flex:25%; text-align:center;">
@@ -36,7 +23,7 @@ In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <
 - **Implementing human-centered AI for mental health and emotional support**, developing design guidelines for emotion AI systems that promote well-being and strengthen peer support networks.
 
 
-My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500).
+My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500). 
 
 <div style="
   background-color:#e6f0ff;
@@ -46,9 +33,10 @@ My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), i
   font-weight:600;
   font-size:1.05em;
 ">
-🟦 <em>Currently on the academic job market for postdoctoral and tenure-track faculty positions.</em>
+<em>Currently on the academic job market for postdoctoral and tenure-track faculty positions!</em>
 </div>
 
+I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
 
 **Recent Updates** 
 - 🖌️ **CSCW 2025** — attended the Doctoral Consortium, presented two papers, and met so many wonderful people! Nov, 2025
