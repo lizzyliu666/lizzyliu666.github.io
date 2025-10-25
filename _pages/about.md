@@ -19,8 +19,8 @@ I am a Ph.D candidate at the <em><strong>School of Information at the University
 </div>
 
 - **Revealing disparities of sensitive disclosure on video-based social media**, through LLM-assisted computational analysis of videos informed by self-presentation theory and semiotics.
-- **Identifying "moment of change" in real-world mental health care-seeking behaviors**, through in-depth interviews about the lived experience of marginalized young adults.
-- **Informing human-centered AI for mental health and emotional support**, by developing design guidelines for emotion AI systems that promote well-being and strengthen peer support networks.
+- **Identifying <em>care encounters</em> as moments of change in real-world mental health help-seeking**, through in-depth interviews with marginalized young adults.
+- **Informing human-centered AI for mental well-being and emotional support**, by developing ethical design guidelines for emotion AI systems that preserve human connections and strengthen peer support.
 
 
 My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500). 
