@@ -18,23 +18,24 @@ author_profile: true
 {% endcomment %}
 
 ### 📚 Under Review
-- **[J.08]** **Jiaying "Lizzy" Liu**, Yunlong Wang, Allen Jue†, Yao Lyu, Yiheng Su†, Shuo Niu, Nathan TeBlunthuis, and Yan Zhang. 2025. *AI-Supported Multimodal Analysis of Visual Rhetoric in Mental Health Narratives: Aesthetics, Disparity, and Peer Support in YouTube Vlogs.* In *Social Media + Society (under review)*. [Preprint](https://arxiv.org/abs/2502.20658)
-- **[J.07]** Emma S. Gueorguieva, Jina Suh, Hongli Zhan, **Jiaying "Lizzy" Liu**, Katie Yan, Javier Hernandez, Tatiana Lau, J. Jessy Li, Desmond C. Ong. 2025. *AI-Generated Empathy is Homogeneous.* In *Nature Human Behavior (in progress)*.
+**[J.08]** **Jiaying "Lizzy" Liu**, Yunlong Wang, Allen Jue†, Yao Lyu, Yiheng Su†, Shuo Niu, Nathan TeBlunthuis, and Yan Zhang. 2025. *Decoding Visual Storytelling in Mental Health Narratives: Aesthetics, Disparity, and Peer Support
+in YouTube Vlogs.* *Social Media + Society (under review)*. [Preprint](https://arxiv.org/abs/2502.20658)
+**[J.07]** Emma S. Gueorguieva, Jina Suh, Hongli Zhan, **Jiaying "Lizzy" Liu**, Katie Yan, Javier Hernandez, Tatiana Lau, J. Jessy Li, Desmond C. Ong. 2025. *AI-Generated Empathy is Homogeneous.* In *Nature Human Behavior (in progress)*.
 
 ---
 
 ### 📚 Journal Papers
-- **[J.06]** **Jiaying "Lizzy" Liu**, Shuer Zhuo, Xingyu Li, Noura Howell, Angela Smith, Andrew Dillon, Yan Zhang. 2025. *From Regulation to Support: Centering Humans in Technology-Mediated Emotion Intervention in Care Contexts.* In *CSCW 2025*. To appear. [PDF](https://arxiv.org/pdf/2504.12614)
-- **[J.05]** **Jiaying "Lizzy" Liu**, Yan Zhang. 2025. *"When I lost it, they dragged me out": How Care Encounters Empower Marginalized Young Adults' Aspiration and Mental Health Care-Seeking.* In *CSCW 2025*. To appear. [PDF](http://arxiv.org/abs/2502.11277)
-- **[J.04]** **Jiaying "Lizzy" Liu**, Sierrah Bessler, Yan Zhang, Midori McKay Komi, Annie T. Chen. 2025. *Changes of Information Needs and Emotions During COVID-19: A Longitudinal View.* In *Library & Information Science Research (LISR)*, 47(3), 101367. [PDF](https://www.sciencedirect.com/science/article/pii/S0740818825000283)
-- **[J.03]** Katie Trainum, **Jiaying Liu**, Elliott Hauser, and Bo Xie. 2024. *Nursing Staff's Perspectives of Care Robots for Assisted Living Facilities: Systematic Literature Review.* In *JMIR Aging*, 7:e58629. [PDF](https://doi.org/10.2196/58629)
-- **[J.02]** **Jiaying Liu** and Yan Zhang. 2024. *Modeling Health Video Consumption Behaviors on Social Media: Activities, Challenges, and Characteristics.* In *Proc. ACM Hum.-Comput. Interact. (CSCW 2024)*, 28 pages. [PDF](https://arxiv.org/pdf/2311.09040.pdf)
-- **[J.01]** Yan Zhang, **Jiaying Liu**, Shijie Song. 2023. *The Design and Evaluation of a Nudge-based Interface to Facilitate Consumers' Evaluation of Online Health Information Credibility.* In *JASIS&T*, 74(7), 828–845. [PDF](https://doi.org/10.1002/asi.24759)
+**[J.06]** **Jiaying "Lizzy" Liu**, Shuer Zhuo, Xingyu Li, Noura Howell, Angela Smith, Andrew Dillon, Yan Zhang. 2025. *From Regulation to Support: Centering Humans in Technology-Mediated Emotion Intervention in Care Contexts.* In *CSCW 2025*. To appear. [PDF](https://arxiv.org/pdf/2504.12614)
+**[J.05]** **Jiaying "Lizzy" Liu**, Yan Zhang. 2025. *"When I lost it, they dragged me out": How Care Encounters Empower Marginalized Young Adults' Aspiration and Mental Health Care-Seeking.* In *CSCW 2025*. To appear. [PDF](http://arxiv.org/abs/2502.11277)
+**[J.04]** **Jiaying "Lizzy" Liu**, Sierrah Bessler, Yan Zhang, Midori McKay Komi, Annie T. Chen. 2025. *Changes of Information Needs and Emotions During COVID-19: A Longitudinal View.* In *Library & Information Science Research (LISR)*, 47(3), 101367. [PDF](https://www.sciencedirect.com/science/article/pii/S0740818825000283)
+**[J.03]** Katie Trainum, **Jiaying Liu**, Elliott Hauser, and Bo Xie. 2024. *Nursing Staff's Perspectives of Care Robots for Assisted Living Facilities: Systematic Literature Review.* In *JMIR Aging*, 7:e58629. [PDF](https://doi.org/10.2196/58629)
+**[J.02]** **Jiaying Liu** and Yan Zhang. 2024. *Modeling Health Video Consumption Behaviors on Social Media: Activities, Challenges, and Characteristics.* In *Proc. ACM Hum.-Comput. Interact. (CSCW 2024)*, 28 pages. [PDF](https://arxiv.org/pdf/2311.09040.pdf)
+**[J.01]** Yan Zhang, **Jiaying Liu**, Shijie Song. 2023. *The Design and Evaluation of a Nudge-based Interface to Facilitate Consumers' Evaluation of Online Health Information Credibility.* In *JASIS&T*, 74(7), 828–845. [PDF](https://doi.org/10.1002/asi.24759)
 
 ---
 
 ### 🎤 Peer-reviewed Conference Papers
-- **[C.05]** **Jiaying "Lizzy" Liu**, Yiheng Su†, and Praneel Seth†. 2025. *From Pixels to Concepts: How AI interprets Visual Concepts in Social Media Videos? A Case Study of Mental Health YouTube Shorts.* In *Association for Information Science & Technology Annual Meeting (ASIS&T' 25), November 14-18, 2025, Washington DC, USA*, 10 pages.
+**[C.05]** **Jiaying "Lizzy" Liu**, Yiheng Su†, and Praneel Seth†. 2025. *From Pixels to Concepts: How AI interprets Visual Concepts in Social Media Videos? A Case Study of Mental Health YouTube Shorts.* In *Association for Information Science & Technology Annual Meeting (ASIS&T' 25), November 14-18, 2025, Washington DC, USA*, 10 pages.
 
 **[C.04]** **Jiaying "Lizzy" Liu**,, Yan Zhang. 2024. *Video-Mediated Emotion Disclosure: Expressions of Fear, Sadness, and Joy by People with Schizophrenia on YouTube.* In *Association for Information Science & Technology Annual Meeting (ASIS&T' 25), November 14-18, 2025, Washington DC, USA*, 10 pages. [pdf]  
 
