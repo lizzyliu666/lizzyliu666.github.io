@@ -18,7 +18,7 @@ author_profile: true
 {% endcomment %}
 
 ### 📚 Under Review
-**[J.08]** **Jiaying "Lizzy" Liu**, Yunlong Wang, Allen Jue†, Yao Lyu, Yiheng Su†, Shuo Niu, Nathan TeBlunthuis, and Yan Zhang. 2025. *Decoding Visual Storytelling in Mental Health Narratives: Aesthetics, Disparity, and Peer Support in YouTube Vlogs.* *Social Media + Society (under review)*. [Preprint](https://lizzyliu666.github.io//Liu25_SM+S/)
+**[J.08]** **Jiaying "Lizzy" Liu**, Yunlong Wang, Allen Jue†, Yao Lyu, Yiheng Su†, Shuo Niu, Nathan TeBlunthuis, and Yan Zhang. 2025. *Decoding Visual Storytelling in Mental Health Narratives: Aesthetics, Disparity, and Peer Support in YouTube Vlogs.* *Social Media + Society (under review)*. [Preprint](https://lizzyliu666.github.io/assets/Liu25_SM+S.pdf)
 
 **[J.07]** Emma S. Gueorguieva, Jina Suh, Hongli Zhan, **Jiaying "Lizzy" Liu**, Katie Yan, Javier Hernandez, Tatiana Lau, J. Jessy Li, Desmond C. Ong. 2025. *AI-Generated Empathy is Homogeneous.* In *Nature Human Behavior (in progress)*.
 
