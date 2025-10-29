@@ -9,10 +9,10 @@ redirect_from:
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <div style="flex:75%;">
-My work sits at Social Computing>, Computer-Mediated Communication, and Human-Computer Interaction in health contexts. My work is motivated by <b><i>human flourishing</i></b> and <b><i>social justice</i></b>. I strive to advance <b>human-centered AI</b> that nurtures individual identities and strengthens human connections. 
+My work sits at Social Computing>, Computer-Mediated Communication, and Human-Computer Interaction in health contexts. My work is motivated by <b><i>human flourishing</i></b> and <b><i>social justice</i></b>. I strive to advance <b>human-centered AI</b> that nurtures individual identities and strengthens human connections. <br><br>
   </div>
 
-  <div style="flex:25%; text-align:center;">
+  <div style="flex:20%; text-align:center;">
     <img src="./images/agenda.png" alt="Agenda" style="max-width:100%; height:auto;">
   </div>
 </div>
