@@ -9,9 +9,9 @@ redirect_from:
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <div style="flex:75%;">
-I study <b>Social Computing</b>, <b>Computer-Mediated Communication</b>, and <b>Human-Computer Interaction</b> in health contexts. My work is motivated by <b><i>human flourishing</i></b> and <b>social justice</b>. I strive to advance <b>human-centered AI</b> that nurtures individual identities and strengthens human connections. I study how health care-seeking unfolds across digital media and everyday life, with particular attention to the <i>societal</i> and <i>ethical</i> dimensions of <b>multimodal and AI-mediated communication</b>, including emerging <i>disparities</i> and <i>risks</i> associated with video-based social media and AI companions. I further inform and design <b>care-oriented AI systems</b> that facilitate emotional expression and peer support.<br>
-   <br>
-    My previous work made three major contributions to <b>Health Behavior</b>, <b>Information Science</b>, <b>Human-Computer Interaction</b>, and <b>Computational Social Science</b>:
+I study Social Computing>, Computer-Mediated Communication, and Human-Computer Interaction in health contexts. My work is motivated by <b><i>human flourishing</i></b> and <b><i>social justice</i></b>. I strive to advance <b>human-centered AI</b> that nurtures individual identities and strengthens human connections. 
+      <br>
+    I study how health care-seeking unfolds across digital media and everyday life, with particular attention to the <i>societal</i> and <i>ethical</i> dimensions of <b>multimodal and AI-mediated communication</b>, including emerging <i>disparities</i> and <i>risks</i> associated with video-based social media and AI companions. I further inform and design <b>care-oriented AI systems</b> that facilitate emotional expression and peer support. My previous work made three major contributions to <b>Health Behavior</b>, <b>Information Science</b>, <b>Human-Computer Interaction</b>, and <b>Computational Social Science</b>:
   </div>
 
   <div style="flex:25%; text-align:center;">
@@ -25,7 +25,7 @@ I study <b>Social Computing</b>, <b>Computer-Mediated Communication</b>, and <b>
 
 My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500). 
 
-    Some of my ongoing and future projects will explore the **critical literacy of human–AI intimacy**, unpack disparities in **algorithm-mediated multimodal communication** on short video platforms through large language models, and advance responsible AI to support the **mental well-being of vulnerable communities**.
+Some of my ongoing and future projects will explore the **critical literacy of human–AI intimacy**, unpack disparities in **algorithm-mediated multimodal communication** on short video platforms through large language models, and advance responsible AI to support the **mental well-being of vulnerable communities**.
 
 
 <div style="
