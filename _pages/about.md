@@ -25,8 +25,7 @@ I study how health care-seeking unfolds across digital media and everyday life, 
 
 My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500). 
 
-Some of my ongoing and future projects will explore the **critical literacy of human–AI intimacy**, unpack disparities in **algorithm-mediated multimodal communication** on short video platforms through large language models, and advance responsible AI to support the **mental well-being of vulnerable communities**.
-
+Some of my ongoing and future projects will explore the **critical literacy of human–AI intimacy**, unpack disparities in **algorithm-mediated multimodal communication** on short video platforms through large language models, and advance responsible AI to support the **mental well-being of vulnerable communities**. ✨ I’m always passionate about connecting and collaborating with like-minded researchers! Let’s stay connected — find me on socials or drop me an email!  
 
 <div style="
   background-color:#e6f0ff;
