@@ -66,9 +66,7 @@ author_profile: true
 
 **[P.02]** Katie Trainum, **Jiaying Liu**, Elliott Hauser, and Bo Xie. 2024. *Nursing Staff’s Attitudes, Needs, and Preferences for Care Robots in Assisted Living Facilities: A Systematic Literature Review.* In *Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI’ 24 Companion), March 11–14, 2024, Boulder, CO, USA.* ACM, New York, NY, USA, 5 pages. [pdf]  
 
-**[P.01]** **Jiaying Liu**, Shijie Song, Yan Zhang. 2021. *Linguistic Features and Consumer Credibility Judgment of Online Health Information.* iConference' 21. [Best Poster Honorable Mention]  
-
-[📄](/assets/JiayingLizzyLiu_ResearchStatement.pdf)
+**[P.01]** **Jiaying Liu**, Shijie Song, Yan Zhang. 2021. *Linguistic Features and Consumer Credibility Judgment of Online Health Information.* iConference' 21. [Best Poster Honorable Mention]  [pdf](/assets/JiayingLizzyLiu_ResearchStatement.pdf)
 
 
 
