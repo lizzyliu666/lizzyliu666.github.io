@@ -68,4 +68,7 @@ author_profile: true
 
 **[P.01]** **Jiaying Liu**, Shijie Song, Yan Zhang. 2021. *Linguistic Features and Consumer Credibility Judgment of Online Health Information.* iConference' 21. [Best Poster Honorable Mention]  
 
+[📄](/assets/JiayingLizzyLiu_ResearchStatement.pdf)
+
+
 
