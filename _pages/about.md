@@ -35,7 +35,7 @@ Some of my ongoing and future projects will explore the **critical literacy of h
   font-weight:600;
   font-size:1.05em;
 ">
-<em>Currently on the academic job market for postdoctoral and tenure-track faculty positions!</em>
+<em>On the academic job market for postdoctoral and tenure-track faculty positions!</em>
 </div>
 
 I am lucky to be advised by Dr. Yan Zhang, who always supports my research and personal growth. I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
