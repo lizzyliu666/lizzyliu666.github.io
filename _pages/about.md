@@ -9,21 +9,24 @@ redirect_from:
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <div style="flex:75%;">
-I am a Ph.D candidate at the <em><strong>School of Information at the University of Texas at Austin</strong></em>, advised by Dr. Yan Zhang. In pursuit of <em><strong>human flourishing</strong></em>, my goal is to build <strong>human-centered AI</strong> that enables <em>authentic emotional support</em> and strengthens <em>human connections</em>. I study how care-seeking unfolds across digital media and everyday life, with particular attention to <strong>disparities and risks</strong> affecting vulnerable populations. My research explores:
+I study <b>Social Computing</b>, <b>Computer-Mediated Communication</b>, and <b>Human-Computer Interaction</b> in health contexts. My work is motivated by <b><i>human flourishing</i></b> and <b>social justice</b>. I strive to advance <b>human-centered AI</b> that nurtures individual identities and strengthens human connections. I study how health care-seeking unfolds across digital media and everyday life, with particular attention to the <i>societal</i> and <i>ethical</i> dimensions of <b>multimodal and AI-mediated communication</b>, including emerging <i>disparities</i> and <i>risks</i> associated with video-based social media and AI companions. I further inform and design <b>care-oriented AI systems</b> that facilitate emotional expression and peer support.<br>
+   <br>
+    My previous work made three major contributions to <b>Health Behavior</b>, <b>Information Science</b>, <b>Human-Computer Interaction</b>, and <b>Computational Social Science</b>:
   </div>
 
   <div style="flex:25%; text-align:center;">
     <img src="./images/agenda.png" alt="Agenda" style="max-width:100%; height:auto;">
   </div>
-
 </div>
 
 - **Revealing disparities of sensitive disclosure on video-based social media**, through LLM-assisted computational analysis of videos informed by self-presentation theory and semiotics.
 - **Identifying <em>care encounters</em> as moments of change in real-world mental health help-seeking**, through in-depth interviews with marginalized young adults.
 - **Informing human-centered AI for mental well-being and emotional support**, by developing ethical design guidelines for emotion AI systems that preserve human connections and strengthen peer support.
 
-
 My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500). 
+
+    Some of my ongoing and future projects will explore the **critical literacy of human–AI intimacy**, unpack disparities in **algorithm-mediated multimodal communication** on short video platforms through large language models, and advance responsible AI to support the **mental well-being of vulnerable communities**.
+
 
 <div style="
   background-color:#e6f0ff;
@@ -36,7 +39,7 @@ My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), i
 <em>Currently on the academic job market for postdoctoral and tenure-track faculty positions!</em>
 </div>
 
-I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
+I am lucky to be advised by Dr. Yan Zhang, who always supports my research and personal growth. I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
 
 **Recent Updates** 
 - 🖌️ **CSCW 2025** — attended the Doctoral Consortium, presented two papers, and met so many wonderful people! Nov, 2025
