@@ -9,9 +9,7 @@ redirect_from:
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <div style="flex:75%;">
-I study Social Computing>, Computer-Mediated Communication, and Human-Computer Interaction in health contexts. My work is motivated by <b><i>human flourishing</i></b> and <b><i>social justice</i></b>. I strive to advance <b>human-centered AI</b> that nurtures individual identities and strengthens human connections. 
-      <br>
-    I study how health care-seeking unfolds across digital media and everyday life, with particular attention to the <i>societal</i> and <i>ethical</i> dimensions of <b>multimodal and AI-mediated communication</b>, including emerging <i>disparities</i> and <i>risks</i> associated with video-based social media and AI companions. I further inform and design <b>care-oriented AI systems</b> that facilitate emotional expression and peer support. My previous work made three major contributions to <b>Health Behavior</b>, <b>Information Science</b>, <b>Human-Computer Interaction</b>, and <b>Computational Social Science</b>:
+My work sits at Social Computing>, Computer-Mediated Communication, and Human-Computer Interaction in health contexts. My work is motivated by <b><i>human flourishing</i></b> and <b><i>social justice</i></b>. I strive to advance <b>human-centered AI</b> that nurtures individual identities and strengthens human connections. 
   </div>
 
   <div style="flex:25%; text-align:center;">
@@ -19,6 +17,8 @@ I study Social Computing>, Computer-Mediated Communication, and Human-Computer I
   </div>
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;I study how health care-seeking unfolds across digital media and everyday life, with particular attention to the _societal_ and _ethical_ dimensions of **multimodal and AI-mediated communication**, including emerging _disparities_ and _risks_ associated with video-based social media and AI companions. I further inform and design **care-oriented AI systems** that facilitate emotional expression and peer support. My previous work made three major contributions to **Health Behavior**, **Information Science**, **Human-Computer Interaction**, and **Computational Social Science**:
+    
 - **Revealing disparities of sensitive disclosure on video-based social media**, through LLM-assisted computational analysis of videos informed by self-presentation theory and semiotics.
 - **Identifying <em>care encounters</em> as moments of change in real-world mental health help-seeking**, through in-depth interviews with marginalized young adults.
 - **Informing human-centered AI for mental well-being and emotional support**, by developing ethical design guidelines for emotion AI systems that preserve human connections and strengthen peer support.
