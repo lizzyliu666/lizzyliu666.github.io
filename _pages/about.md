@@ -19,9 +19,9 @@ My work sits at Social Computing, Computer-Mediated Communication, and Human-Com
 
 I study how health care-seeking unfolds across digital media and everyday life, with particular attention to the _societal_ and _ethical_ dimensions of **multimodal and AI-mediated communication**, including emerging _disparities_ and _risks_ associated with video-based social media and AI companions. I further inform and design **care-oriented AI systems** that facilitate emotional expression and peer support. My previous work made three major contributions to Information Science, Human-Computer Interaction, Computational Social Science, and Health Behavior:
     
-- **Revealing disparities of sensitive disclosure on video-based social media**, through LLM-assisted computational analysis of videos informed by self-presentation theory and semiotics.
-- **Identifying <em>care encounters</em> as moments of change in real-world mental health help-seeking**, through in-depth interviews with marginalized young adults.
-- **Informing human-centered AI for mental well-being and emotional support**, by developing ethical design guidelines for emotion AI systems that preserve human connections and strengthen peer support.
+- I develop novel **AI-empowered data science** using large vision language models (VLMs) and machine learning for multimodal social media data mining to reveal new forms of disparities in video ecosystems
+- I inform human-centered AI for mental well-being by developing **ethical design guidelines** for emotion AI systems that preserve human connections and strengthen peer support.
+- I identify <em>care encounters</em> as **moments of change** in real-world mental health help-seeking, through in-depth interviews with marginalized young adults.
 
 My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500). 
 
