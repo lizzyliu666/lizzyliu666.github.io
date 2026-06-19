@@ -23,9 +23,6 @@ I study how health care-seeking unfolds across digital media and everyday life, 
 - I inform human-centered AI for mental well-being by outlining **ethical design guidelines** for emotion AI systems that preserve human connections;
 - I identify <em>care encounters</em> as **moments of change** in real-world mental health help-seeking, through in-depth interviews with marginalized young adults.
 
-My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500). 
-
-Some of my ongoing and future projects will explore the **critical literacy of human–AI intimacy**, unpack disparities in **algorithm-mediated multimodal communication** on short video platforms through large language models, and advance responsible AI to support the **mental well-being of vulnerable communities**. ✨ I’m always passionate about connecting and collaborating with like-minded researchers! Let’s stay connected — find me on socials or drop me an email!  
 
 <div style="
   background-color:#e6f0ff;
@@ -37,6 +34,11 @@ Some of my ongoing and future projects will explore the **critical literacy of h
 ">
 <em>I will join the Wee Kim Wee School of Communication and Information (WKWSCI) at Nanyang Technological University (NTU) in Fall 2026 as a tenure-track Assistant Professor! </em>
 </div>
+
+My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received **4 research awards**, including two **Best Paper Awards** from *ASIS&T* and two **Honorable Mentions** from the *iConference* and *IEEE International Conference on Health Informatics*. I have also received **dissertation funding** from the UT Austin Graduate School (\$52,000) and the Berkeley Center for New Media (\$2,500). 
+
+Some of my ongoing and future projects will explore the **critical literacy of human–AI intimacy**, unpack disparities in **algorithm-mediated multimodal communication** on short video platforms through large language models, and advance responsible AI to support the **mental well-being of vulnerable communities**. ✨ I’m always passionate about connecting and collaborating with like-minded researchers! Let’s stay connected — find me on socials or drop me an email!  
+
 
 I am lucky to be advised by Dr. Yan Zhang, who always supports my research and personal growth. I am also a research associate at the Computational Affective and Social Cognition Lab at UT Austin, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). Before my doctoral study, I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
 
