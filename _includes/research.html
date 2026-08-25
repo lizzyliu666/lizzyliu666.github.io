@@ -2,6 +2,18 @@
      To swap a figure, just replace the matching file in /images/ (research-1.png, research-2.png, research-3.png).
      To list related work, edit the "Related publications" list under each direction. -->
 <style>
+  .research-directions { }
+  .rd-item { margin-bottom:44px; }
+  .rd-card {
+    display:flex; align-items:center; gap:26px; flex-wrap:wrap;
+    background:#fbfbfe; border:1px solid #ecedf7; border-radius:14px;
+    padding:20px 24px;
+  }
+  .rd-figure { flex:0 0 210px; max-width:210px; }
+  .rd-figure img { width:100%; height:auto; border-radius:10px; display:block; }
+  .rd-desc { flex:1 1 420px; min-width:260px; }
+  .rd-desc h3 { margin:0 0 4px; }
+  .rd-desc p { margin:0; }
   .rd-tags { margin:6px 0 12px; }
   .rd-tags span {
     display:inline-block; font-size:0.72em; font-weight:600; letter-spacing:0.02em;
@@ -9,7 +21,7 @@
     border-radius:999px; padding:3px 11px; margin:0 6px 6px 0;
   }
   .rd-pubs {
-    margin-top:12px; border-left:3px solid #dcdcf3; padding:2px 0 2px 14px;
+    margin-top:16px; border-left:3px solid #dcdcf3; padding:2px 0 2px 14px;
     font-size:0.9em;
   }
   .rd-pubs .rd-pubs-label {
@@ -34,17 +46,20 @@
 
 <div class="research-directions">
 
-  <div style="display:flex; align-items:center; gap:28px; flex-wrap:wrap; margin-bottom:40px;">
-    <div style="flex:1 1 260px; min-width:240px;">
-      <img src="/images/research-1.png" alt="Human-Centered AI" style="width:100%; height:auto; border-radius:10px;">
-    </div>
-    <div style="flex:1 1 320px; min-width:260px;">
-      <h3 style="margin-top:0; margin-bottom:4px;">Human-Centered AI</h3>
-      <div class="rd-tags">
+  <div class="rd-item">
+    <div class="rd-card">
+      <div class="rd-figure">
+        <img src="/images/research-1.png" alt="Human-Centered AI">
+      </div>
+      <div class="rd-desc">
+        <h3>Human-Centered AI</h3>
+        <div class="rd-tags">
         <span>Emotion AI</span><span>Ethical AI</span><span>Responsible AI</span><span>Human-AI Interaction</span>
       </div>
-      <p>I reimagine AI that keeps people &mdash; their identities, emotions, and relationships &mdash; at the center. My work aim to design care-oriented and emotion-aware AI that support emotional expression. I investigate AI systems that align with care ethics and articulates ethical design guidelines so that AI strengthens rather than replaces human connection.</p>
-      <div class="rd-pubs">
+        <p>I reimagine AI that keeps people &mdash; their identities, emotions, and relationships &mdash; at the center. My work aim to design care-oriented and emotion-aware AI that support emotional expression. I investigate AI systems that align with care ethics and articulates ethical design guidelines so that AI strengthens rather than replaces human connection.</p>
+      </div>
+    </div>
+    <div class="rd-pubs">
         <div class="rd-pubs-label">Related publications</div>
         <ul>
           <li>From Regulation to Support: Centering Humans in Technology-Mediated Emotion Intervention in Care Contexts. <em>CSCW 2025.</em> <a href="https://arxiv.org/pdf/2504.12614">[PDF]</a> <details class="rd-bib"><summary>[BibTeX]</summary><pre>@article{liuRegulationSupportCentering2025,
@@ -79,17 +94,22 @@
 }</pre></details></li>
         </ul>
       </div>
-    </div>
   </div>
 
-  <div style="display:flex; align-items:center; gap:28px; flex-wrap:wrap; margin-bottom:40px;">
-    <div style="flex:1 1 320px; min-width:260px; order:2;">
-      <h3 style="margin-top:0; margin-bottom:4px;">Multimodal Communication</h3>
-      <div class="rd-tags">
+  <div class="rd-item">
+    <div class="rd-card">
+      <div class="rd-figure">
+        <img src="/images/research-2.png" alt="Multimodal Mediated Communication">
+      </div>
+      <div class="rd-desc">
+        <h3>Multimodal Communication</h3>
+        <div class="rd-tags">
         <span>Video Social Media</span><span>Visual Culture</span><span>Vision-Language Models</span><span>Computational Methods</span>
       </div>
-      <p>I study how multimodal media reshape the way people seek and share health information in everyday life. Using large vision&ndash;language models, I develop workflows to analyze video-based social media at scale, surfacing the disparities and risks that emerge in the visual-mediated communication. I aim to reveal the dynamics among <b>visual norms</b>, <b>social media</b>, and <b>GenAI images</b> at scale.</p>
-      <div class="rd-pubs">
+        <p>I study how multimodal media reshape the way people seek and share health information in everyday life. Using large vision&ndash;language models, I develop workflows to analyze video-based social media at scale, surfacing the disparities and risks that emerge in the visual-mediated communication. I aim to reveal the dynamics among <b>visual norms</b>, <b>social media</b>, and <b>GenAI images</b> at scale.</p>
+      </div>
+    </div>
+    <div class="rd-pubs">
         <div class="rd-pubs-label">Related publications</div>
         <ul>
           <li>Decoding Visual Storytelling in Mental Health Narratives: Aesthetics, Disparity, and Peer Support in YouTube Vlogs. <em>Social Media + Society (under review); Accepted ICA 2026.</em> <a href="https://lizzyliu666.github.io/assets/Liu25_SM+S.pdf">[PDF]</a> <details class="rd-bib"><summary>[BibTeX]</summary><pre>@article{liuDecodingVisualStorytelling2025,
@@ -153,23 +173,22 @@
 }</pre></details></li>
         </ul>
       </div>
-    </div>
-    <div style="flex:1 1 260px; min-width:240px; order:1;">
-      <img src="/images/research-2.png" alt="Multimodal Mediated Communication" style="width:100%; height:auto; border-radius:10px;">
-    </div>
   </div>
 
-  <div style="display:flex; align-items:center; gap:28px; flex-wrap:wrap; margin-bottom:10px;">
-    <div style="flex:1 1 260px; min-width:240px;">
-      <img src="/images/research-3.png" alt="Technology for Behavioral Change and Well-Being" style="width:100%; height:auto; border-radius:10px;">
-    </div>
-    <div style="flex:1 1 320px; min-width:260px;">
-      <h3 style="margin-top:0; margin-bottom:4px;">Health Behavioral Change &amp; Well-Being</h3>
-      <div class="rd-tags">
+  <div class="rd-item">
+    <div class="rd-card">
+      <div class="rd-figure">
+        <img src="/images/research-3.png" alt="Technology for Behavioral Change and Well-Being">
+      </div>
+      <div class="rd-desc">
+        <h3>Health Behavioral Change &amp; Well-Being</h3>
+        <div class="rd-tags">
         <span>Behavioral Change</span><span>Mental Health</span><span>Help-Seeking</span><span>Health Equity</span>
       </div>
-      <p>I examine how people &mdash; especially marginalized communities &mdash; change health behaviors and navigate mental health care across digital and everyday settings. This line of work informs responsible technologies that support meaningful <b>behavioral change</b> for well-being.</p>
-      <div class="rd-pubs">
+        <p>I examine how people &mdash; especially marginalized communities &mdash; change health behaviors and navigate mental health care across digital and everyday settings. This line of work informs responsible technologies that support meaningful <b>behavioral change</b> for well-being.</p>
+      </div>
+    </div>
+    <div class="rd-pubs">
         <div class="rd-pubs-label">Related publications</div>
         <ul>
           <li>&quot;When I lost it, they dragged me out&quot;: How Care Encounters Empower Marginalized Young Adults&#x27; Mental Health Care-Seeking. <em>CSCW 2025.</em> <a href="http://arxiv.org/abs/2502.11277">[PDF]</a> <details class="rd-bib"><summary>[BibTeX]</summary><pre>@misc{liuWhenLostIt2025,
@@ -213,7 +232,6 @@
 }</pre></details></li>
         </ul>
       </div>
-    </div>
   </div>
 
 </div>
