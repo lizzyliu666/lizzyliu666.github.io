@@ -29,8 +29,9 @@ I completed my Ph.D. at The University of Texas at Austin, advised by Dr. Yan Zh
   font-weight:600;
   font-size:1.05em;
 ">
+  <em>I'm recruiting students and interns! If you are interested, please send me an email, attaching your CV and a brief description of how our interests intersect :)</em>
 </div>
-<em>I'm recruiting students and interns! If you are interested, please send me an email, attaching your CV and a brief description of how our interests intersect :)</em>
+
 
 ## News
 
