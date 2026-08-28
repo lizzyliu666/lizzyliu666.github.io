@@ -18,7 +18,7 @@ My work sits at the intersection of Social Computing, Computer-Mediated Communic
   </div>
 </div>
 
-I study how health care-seeking unfolds across digital media and everyday life, with particular attention to the _societal_ and _ethical_ dimensions of **multimodal and AI-mediated communication** — including emerging _disparities_ and _risks_ associated with video-based social media and AI companions. I further inform and design **care-oriented AI systems** that facilitate emotional expression and peer support. My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received multiple research awards.
+I examine the _societal_ and _ethical_ implications of **multimodal and AI-mediated communication**, such as the emerging _disparities_ and _risks_ associated with **video-based social media** and **AI companions**. I also advance AI-empowered data science by developing novel workflows leveraging Vision Language Models for video analysis at scale. My work has been published across top computing (ACM CSCW, ACM CHI, IEEE HRI), information science (JASIS&T, ASIS&T, L&ISR, ACM CHIIR), and health venues (JMIR, IEEE ICHI). I have received multiple research awards and scholarships from conferences, UT Austin, Berkeley Center for New Media, and the SICSS-Stanford.
 
 I completed my Ph.D. at The University of Texas at Austin, advised by Dr. Yan Zhang, where I was also a research associate at the Computational Affective and Social Cognition Lab, led by Prof. Desmond C. Ong (Psychology) and Prof. Jessy Li (CS). I graduated from Peking University in 2021 with two B.S. degrees in Information Management and Economics.
 <div style="
