@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "CARE Lab"
-    url: /care-lab/
-    
   - title: "Research"
     url: /research/
 
@@ -11,6 +8,10 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "CARE Lab"
+    url: /care-lab/
+        
 
   # - title: "Projects"
   #   url: /projects/
