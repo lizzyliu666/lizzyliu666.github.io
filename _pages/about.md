@@ -10,7 +10,7 @@ redirect_from:
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <div style="flex:75%;">
-My work sits at the intersection of Social Computing, Computer-Mediated Communication, and Human-Computer Interaction in health contexts. Motivated by <i>human flourishing</i>, I strive to advance <b>human-centered AI</b> that nurtures individual identities and strengthens human connections. <br><br>
+I am an Assistant Professor at the Wee Kim Wee School of Communication and Information (WKWSCI), Nanyang Technological University (NTU), Singapore. My work sits at the intersection of Social Computing, Computer-Mediated Communication, and Human-Computer Interaction in health contexts. Motivated by <i>human flourishing</i>, I strive to advance <b>human-centered AI</b> that nurtures individual identities and strengthens human connections. <br><br>
   </div>
 
   <div style="flex:20%; text-align:center;">
@@ -29,7 +29,7 @@ I completed my Ph.D. at The University of Texas at Austin, advised by Dr. Yan Zh
   font-weight:600;
   font-size:1.05em;
 ">
-  <em>I'm recruiting students and interns! If you are interested, please send me an email, attaching your CV and a brief description of how our interests intersect :)</em>
+  <em>I'm recruiting students and interns for my new lab: Computing & AI for Responsible Engagement (CARE Lab). Please read more in the CARE Lab page :) </em>
 </div>
 
 
